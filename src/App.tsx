@@ -1,5 +1,5 @@
 import './App.css'
-import {FrameMetadata, FrameRequest, getFrameAccountAddress, getFrameMessage } from '@coinbase/onchainkit';
+import {FrameMetadata} from '@coinbase/onchainkit';
 
 function App() {
 
