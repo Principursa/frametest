@@ -5,7 +5,6 @@ import './App.css'
 import {FrameMetadata} from "@coinbase/onchainkit"
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <p>testing123</p>
